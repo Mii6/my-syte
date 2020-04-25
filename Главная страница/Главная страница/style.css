@@ -1,0 +1,26 @@
+body {
+  padding-left: 0px;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 25px;
+  background: 24318.jpg;
+  background-size: 130%
+}
+.text {
+  color: black;
+  font-size: 25px;
+  padding-left: 500px;
+  padding-top: 0px;
+}
+header{
+  text-align: left;
+  font-size: 40px;
+  color: red;
+  text-decoration:overline;
+
+}
+img{
+  border-radius: 35%;
+}
+h2 {
+  color: red;
+}
