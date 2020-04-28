@@ -10,11 +10,13 @@ header {
   color: red;
   text-decoration:overline;
 }
-
+p{
+  color: black;
+}
 img {
   border: 5px;
   border-radius: 35%;
 }
 nav {
-background: red;
+background: inset blue;
 }
